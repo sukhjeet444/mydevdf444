@@ -1,0 +1,9 @@
+{
+	"name": "mydevdf444",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6f69d8c7-6d7e-4e81-bea8-e2f4d1f6eadd",
+		"tenantId": "18ed93f5-e470-4996-b0ef-9554af985d50"
+	}
+}
