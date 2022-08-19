@@ -3,7 +3,7 @@
 	"properties": {
 		"activities": [
 			{
-				"name": "Wait1",
+				"name": "Wait123",
 				"type": "Wait",
 				"dependsOn": [],
 				"userProperties": [],
